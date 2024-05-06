@@ -1,0 +1,23 @@
+.car-info-banner {
+    line-height: 1rem;
+    background-color: #d4edda;
+}
+
+.car-button {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 77, 77);
+    border-radius: 20px;
+    margin-bottom: 2em;
+}
+
+.car-button a {
+    display:inline-block;
+    width:100%;
+    height:100%;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
